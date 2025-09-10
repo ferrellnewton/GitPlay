@@ -9,3 +9,5 @@ a change
 more code
 
 my feature 2 update
+
+soemoene else did this
